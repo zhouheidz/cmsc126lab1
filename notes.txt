@@ -2,6 +2,8 @@ git init - initialize repository
 git add - adds to stage
 git commit - moves to repository
 git log - checks all commits done
+git diff - checks the changes done to a specific file
+git status - can check all changes from last commit
 
 remember 3 tree in git:
 
