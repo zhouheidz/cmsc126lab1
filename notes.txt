@@ -15,3 +15,5 @@ WD------------Stage--------------Repository
 
   ----------->     ------------->
     git add	     git commit
+
+every single addition must be committed.
