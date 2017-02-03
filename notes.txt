@@ -5,6 +5,9 @@ git log - checks all commits done
 git diff - checks the changes done to a specific file
 git checkout - discards all changes made
 git status - can check all changes from last commit
+git remote
+git remote add origin <githib repository link>
+git push <remote> <branch name> - uploads your local changes to your remote repository
 
 remember 3 tree in git:
 
