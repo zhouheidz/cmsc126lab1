@@ -3,6 +3,7 @@ git add - adds to stage
 git commit - moves to repository
 git log - checks all commits done
 git diff - checks the changes done to a specific file
+git checkout - discards all changes made
 git status - can check all changes from last commit
 
 remember 3 tree in git:
