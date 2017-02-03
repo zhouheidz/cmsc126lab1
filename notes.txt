@@ -1,0 +1,15 @@
+git init - initialize repository
+git add - adds to stage
+git commit - moves to repository
+git log - checks all commits done
+
+remember 3 tree in git:
+
+WD (working directory) - actual files you interacted with
+Stage - from WD through git add
+Repository - from stage to git commit
+
+WD------------Stage--------------Repository
+
+  ----------->     ------------->
+    git add	     git commit
