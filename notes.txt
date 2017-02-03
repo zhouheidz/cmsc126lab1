@@ -9,6 +9,8 @@ git remote - checks what your remote repository
 git remote add origin <githib repository link>
 git push <remote> <branch name> - uploads your local changes to your remote repository
 
+origin is the name to my remote
+
 remember 3 tree in git:
 
 WD (working directory) - actual files you interacted with
