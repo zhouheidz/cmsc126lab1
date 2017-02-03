@@ -18,3 +18,9 @@ WD------------Stage--------------Repository
     git add	     git commit
 
 every single addition must be committed.
+
+github vs git
+git - is the tool, is locally accessible
+github - cloud service that manages git repositories
+
+commits done in local must be uploaded to github
